@@ -45,4 +45,5 @@ Here is a description of each R file.
   plots - code for plots I used in the poster
 
 I also initalized a git repository for this, so you can keep track of changes.
+Use this link to clone: https://github.com/kevichem/antenna_model.git
 
