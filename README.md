@@ -38,10 +38,10 @@ The theoretical pressure distribution I developed is very bare. This link might 
 antenna_model is the folder where I have done all of my data analysis.
 Here is a description of each R file.
 
-  antenna pressure.R - miscellaneous analysis on the theory
-  antenna solution.R - direct graphing of the theoretical model
-  antenna analysis.R - analysis and graphing of data without including scale_data (size) or diam_data (strain)
-  antenna analysis_1.R - includes the two omitted files
+  antenna_pressure.R - miscellaneous analysis on the theory
+  antenna_solution.R - direct graphing of the theoretical model
+  antenna_analysis.R - analysis and graphing of data (dex_data and joined_data) without including scale_data (size) or diam_data (strain)
+  antenna_analysis_1.R - includes the two omitted files
   plots.R - code for plots I used in the poster
 
 I also initalized a git repository for this, so you can keep track of changes.
