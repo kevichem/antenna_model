@@ -38,12 +38,19 @@ The theoretical pressure distribution I developed is very bare. This link might 
 antenna_model is the folder where I have done all of my data analysis.
 Here is a description of each R file.
 
-  antenna pressure - miscellaneous analysis on the theory
-  antenna solution - direct graphing of the theoretical model
-  antenna analysis - analysis and graphing of data without including scale_data (size) or diam_data (strain)
-  antenna analysis_1 - includes the two omitted files
-  plots - code for plots I used in the poster
+  antenna pressure.R - miscellaneous analysis on the theory
+  antenna solution.R - direct graphing of the theoretical model
+  antenna analysis.R - analysis and graphing of data without including scale_data (size) or diam_data (strain)
+  antenna analysis_1.R - includes the two omitted files
+  plots.R - code for plots I used in the poster
 
 I also initalized a git repository for this, so you can keep track of changes.
 Use this link to clone: https://github.com/kevichem/antenna_model.git
+
+Miscellaneous files are indicated below
+  p_dist.png - the actual distribution of pressure in conduits
+  p_comp.png - comparing pressure differential with different omega.
+  hysteresis_10.pdf - hysteresis graph of antenna 10
+  scale_comp.pdf - comparison between all variables in scale_data using plot()
+
 
